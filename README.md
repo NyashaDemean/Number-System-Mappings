@@ -36,3 +36,6 @@ AND with 0xFF: Binary=1 Octal=1 Decimal=1 Hex=1
 ...
 Summary: 100/100 tests passed
 
+##NOTES
+This was my second assignment working with C, and while I still faced some challenges, it was much better because I’m starting to understand the language more. File handling and running everything from the terminal was easier this time since I already knew the basic commands. Bit manipulation was still tricky at times because of keeping track of all the binary digits, but it was more manageable. The new conversion methods made sense since I understood the math behind them, but I still had to be careful with C syntax, symbols, and making sure my outputs matched exactly what the tests expected. Overall, I felt more confident compared to the first assignment.
+
